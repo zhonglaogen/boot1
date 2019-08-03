@@ -1,0 +1,13 @@
+person:
+  name: "zlx"
+  sex: true
+  age: 20
+  birthDate: 2010/1/2
+  map: {k1: v1,k2: v2}
+  l1:
+    - l1
+    - l2
+    - l3
+  dog:
+    name: "gouzi"
+    color: "yellow"
